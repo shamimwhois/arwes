@@ -25,9 +25,9 @@
     "glob": "^11.0.0",
     "husky": "^9.1.1",
     "jsdom": "^24.1.0",
-    "lerna": "^8.1.6",
-    "markdownlint": "^0.34.0",
-    "markdownlint-cli": "^0.41.0",
+    "lerna": "^10.1.1",
+    "markdownlint": "^0.42.0",
+    "markdownlint-cli": "^0.50.0",
     "motion": "^10.18.0",
     "prettier": "^3.3.3",
     "react": "^18.3.1",
@@ -36,7 +36,7 @@
     "solid-js": "^1.8.19",
     "turbo": "^2.0.9",
     "typescript": "5.3",
-    "vitest": "^2.0.3"
+    "vitest": "^5.0.5"
   },
   "scripts": {
     "postinstall": "husky",
